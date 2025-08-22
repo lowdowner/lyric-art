@@ -6,7 +6,8 @@ The idea was born of exploration of the condition of <a href="https://en.wikiped
 
 I wanted to use Python to see if it would be possible to generate colours and shapes by parsing text from lyrics, performing sentiment analysis on them and mapping the output score to a colour.
 
-<img width="1434" height="636" alt="Screenshot 2025-08-22 at 10 48 17" src="https://github.com/user-attachments/assets/07a74c98-2649-4b9b-add2-f406eea92fcb" />
+
+<img width="1424" height="631" alt="Screenshot 2025-08-22 at 10 55 14" src="https://github.com/user-attachments/assets/c986f367-f80a-41dc-8c00-7c11d52d9c66" />
 
 
 The very exploratory results can be seen below.
